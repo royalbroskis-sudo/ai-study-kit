@@ -9,7 +9,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <head>
-                <meta name="impact-site-verification" content="6d5e4f94-7b24-4d0a-b54a-fb4a9b1fa54b" />
 
         <style>{`
           * { box-sizing: border-box; margin: 0; padding: 0; }

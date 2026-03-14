@@ -39,6 +39,7 @@ export default function Home() {
 
   return (
     <>
+    <p style={{ position: 'absolute', opacity: 0, fontSize: '1px' }}>Impact-Site-Verification: 6d5e4f94-7b24-4d0a-b54a-fb4a9b1fa54b</p>
       <div className="hero">
         <div className="hero-pill">2026 Edition — Updated Weekly</div>
         <h1>The Best AI Tools<br />for Students</h1>
